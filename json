@@ -1,0 +1,20 @@
+[
+    {
+        "id_product": 2,
+        "product_name": "Mouse",
+        "price": 400,
+        "img": "https://img.mvideo.ru/Pdb/50048743b.jpg"
+    },
+    {
+        "id_product": 4,
+        "product_name": "Gamepad",
+        "price": 500,
+        "img": "https://avatars.mds.yandex.net/get-mpic/1855911/img_id7980936131697456187.jpeg/9hq"
+    },
+    {
+        "id_product": 6,
+        "product_name": "Mouse pad",
+        "price": 200,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/A16NEfK2mZL._SL1500_.jpg"
+    }
+]
